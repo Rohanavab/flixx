@@ -1,0 +1,34 @@
+[33mcommit 93d7902b5d850bbe62265ee375477e24fd97b5a5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Rohanavab <114911046+Rohanavab@users.noreply.github.com>
+Date:   Tue Dec 23 11:44:07 2025 +0530
+
+    Update readme.md
+
+[1mdiff --git a/readme.md b/readme.md[m
+[1mindex ec3d9c9..8b13789 100644[m
+[1m--- a/readme.md[m
+[1m+++ b/readme.md[m
+[36m@@ -1,23 +1 @@[m
+[31m-# Flixx App[m
+ [m
+[31m-Movie info application built with vanilla JavaScript that uses **version 3** of the [TMDB API](https://developers.themoviedb.org/3)[m
+[31m-[m
+[31m-This is part of my **Modern JS From The Beginning 2.0** course[m
+[31m-[m
+[31m-<img src="images/screen.jpg" width="500">[m
+[31m-[m
+[31m-This includes the most populr movies and TV shows with detail pages, a search box for movies and shows with full pagination and a slider for movies that are currently playing in theaters. The slider uses the [Swiper](https://swiperjs.com) library.[m
+[31m-[m
+[31m-## Usage[m
+[31m-[m
+[31m-Just clone or download and then register for a free API key at https://www.themoviedb.org/settings/api[m
+[31m-[m
+[31m-Once you get your key, just add it to the `api.apiKey` value in the global state at the top.[m
+[31m-[m
+[31m-**Note:** If you are using this as a production project, you should not store this in the client. You can create a proxy server and store your key there. I may add that to the repo later on.[m
+[31m-[m
+[31m-I also may convert this to use a module bundler such as Vite or Webpack.[m
+[31m-[m
+[31m-## Theme (HTML & CSS)[m
+[31m-[m
+[31m-I also included the theme here for you to download. It does not include any JavaScript at all. This is what you should use if you are following along with the course.[m
